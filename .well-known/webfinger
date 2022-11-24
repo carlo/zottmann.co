@@ -2,18 +2,18 @@
   "subject": "acct:carlo@zottmann.co",
   "aliases": [
     "https://norden.social/@czottmann",
-    "https://norden.social/users/Gargron"
+    "https://norden.social/users/czottmann"
   ],
   "links": [
     {
       "rel": "http://webfinger.net/rel/profile-page",
       "type": "text/html",
-      "href": "https://norden.social/@Gargron"
+      "href": "https://norden.social/@czottmann"
     },
     {
       "rel": "self",
       "type": "application/activity+json",
-      "href": "https://norden.social/users/Gargron"
+      "href": "https://norden.social/users/czottmann"
     },
     {
       "rel": "http://ostatus.org/schema/1.0/subscribe",
